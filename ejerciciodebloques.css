@@ -1,0 +1,74 @@
+.pagina{
+	width: 600px auto;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+
+.morado{
+	background-color: #D1A9FF;
+	display: flex;
+	width: 900px;
+	height: 150px;
+	padding: center;
+	align-items: center;
+	border: 1px solid black;
+	justify-content: space-between;
+}
+
+
+.RO{
+	background-color:  #F5A2CE;
+	display: flex;
+	width: 250px;
+	height: 50px;
+	border: 1px solid black;
+	justify-content: center;
+}
+
+.mitad{
+	width: 800px auto;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	border: 1px solid black;
+}
+
+
+.AM{
+	display:flex;
+	background-color:#F8FF16;
+	height:100px;
+	width:100px;
+	border:1px solid black;
+}
+
+.AZ{
+	display:flex;
+	background-color:#86A1B9;
+	width:700px;
+	height:350px;
+	align-items: flex-end;
+	justify-content:space-around;
+}
+
+.CLD{
+	background-color:  #AD924F;
+	display: flex;
+	width: 200px;
+	height:350px;
+	flex-direction: column;
+	align-items: center;
+	border: 1px solid black;
+}
+
+.CAB{
+	background-color:  #F4E5C0;
+	display: flex;
+	width: 900px;
+	height:100px;
+	border: 1px solid black;
+	justify-content:  center;
+}
